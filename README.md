@@ -16,6 +16,6 @@ Com o desenvolvimento desse projeto, pude testar meus conhecimentos de CSS, simp
 
 CELULAR:
 
-![image](https://user-images.githubusercontent.com/85269068/155542979-e1a4067c-52d5-4de8-ba60-107ec1efec4a.png)
+![image](https://user-images.githubusercontent.com/85269068/155543086-b196bf59-1581-4dda-ad46-771815266865.png)
 
 
