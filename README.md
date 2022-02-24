@@ -9,3 +9,6 @@ Com o desenvolvimento desse projeto, pude testar meus conhecimentos de CSS, simp
 
 
 ![image](https://user-images.githubusercontent.com/85269068/155542501-d91f3014-87d5-4733-b509-18b8477c143d.png)
+
+
+![image](https://user-images.githubusercontent.com/85269068/155542585-5b217a63-7ee0-4415-96fe-8156170eb72f.png)
